@@ -10,13 +10,13 @@ Este repositório contém minha resolução para o desafio de programação prop
  
 | # | Nome do problema | Link | Dificuldade |
 |---|-----------------|------|-------------|
-| 1 | Hit the Lottery | [Ver no Codeforces](https://codeforces.com/problemset/problem/996/A) | 800 |
-| 2 | Torre de Lanches | [Ver no Codeforces](https://codeforces.com/problemset/problem/767/A) | 1100 |
-| 3 | Fibonacci Cubes | [Ver no Codeforces](https://codeforces.com/problemset/problem/2111/B) | 1100 |
+| 1 | Hit the Lottery (996A) | [Ver no Codeforces](https://codeforces.com/problemset/problem/996/A) | 800 |
+| 2 | Torre de Lanches (767A) | [Ver no Codeforces](https://codeforces.com/problemset/problem/767/A) | 1100 |
+| 3 | Fibonacci Cubes (2111B) | [Ver no Codeforces](https://codeforces.com/problemset/problem/2111/B) | 1100 |
   
 ---
  
-## Problema 1 — Hit the Lottery
+## Problema 1 — Hit the Lottery (996A) 
  
 ### O que o problema pede?
 O problema pede para descobrir a menor quantidade possível de notas necessárias para sacar um determinado valor em dólares. As notas disponíveis possuem valores fixos (1, 5, 10, 20 e 100), e o objetivo é utilizar o menor número de notas possível.
@@ -51,7 +51,7 @@ print(total)
  
 ---
  
-## Problema 2 — Torre de Lanches
+## Problema 2 — Torre de Lanches (767A)
  
 ### O que o problema pede?
 O problema simula a construção de uma torre de lanches onde os maiores devem ficar na base e os menores no topo. Porém, os lanches caem em ordem aleatória, um por dia. O objetivo é imprimir quais lanches podem ser colocados na torre em cada dia, respeitando a ordem correta.
@@ -94,7 +94,7 @@ solve()
  
 ---
  
-## Problema 3 — Fibonacci Cubes
+## Problema 3 — Fibonacci Cubes (2111B)
  
 ### O que o problema pede?
 O problema pede para verificar se um conjunto de cubos com tamanhos baseados na sequência de Fibonacci consegue caber dentro de diferentes caixas. As caixas possuem largura, comprimento e altura diferentes, e os cubos precisam respeitar regras específicas de empilhamento.
